@@ -28,6 +28,8 @@ Check out the live demo of the app: [Text-to-Image App](https://huggingface.co/s
 
 ## Technologies Used
 
+- **Python**: The core logic and integration with the model are implemented in Python for seamless functionality and performance.
+- **Streamlit**: The app is built using Streamlit for creating a simple and interactive user interface.
 - **Hugging Face Spaces**: Provides hosting for this app, allowing seamless deployment and scalability.
 - **Stable Diffusion**: Utilizes the popular pre-trained model for high-quality and realistic image generation.
 
@@ -55,7 +57,7 @@ If you want to run the app locally:
 For more detailed information about the underlying technology and APIs used in this app, refer to the following documentation:
 
 - **Hugging Face Spaces Documentation**: [Spaces Documentation](https://huggingface.co/docs/hub/spaces-overview) - Learn about setting up, deploying, and managing your own Spaces.
-- **Stable Diffusion Model Documentation**: [Stable Diffusion Model Card](https://huggingface.co/CompVis/stable-diffusion) - Get insights into the specific model used, its capabilities, and limitations.
+- **Stable Diffusion Model Documentation**: [Stable Diffusion Model Card](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5) - Get insights into the specific model used, its capabilities, and limitations.
 
 ## Acknowledgements
 
